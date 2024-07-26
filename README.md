@@ -30,7 +30,10 @@ Input: hello
 Output: Dictionary Translated: નમસ્તે
 
 Project Structure
-language-translator --> translator_app.py(Main application script) --> README.md(Project documentation) --> requirements.txt(List of dependencies)
+language-translator/
+├── translator_app.py
+├── README.md
+└── requirements.txt
 
 Dependencies
 1. tkinter - Standard Python interface to the Tk GUI toolkit.
